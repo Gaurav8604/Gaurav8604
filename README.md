@@ -1,9 +1,9 @@
 # **About**
-😎😎😎😎😎😎😎😎😎😎
+
 
 📖 Student at 🏫 Pune Vidyarthi Griha's College of Engineering and Technology, Pune 🏫
 
-😎😎😎😎😎😎😎😎😎😎
+
 
 **Abilities:** Passionate, Team building, Active learning, Problem solving.
 
