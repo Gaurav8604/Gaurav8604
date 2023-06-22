@@ -23,7 +23,8 @@
 
 ## Machine Learning
 1. [Bank Loan Approval Prediction](https://github.com/Gaurav8604/Bank-Loan-Approval-Prediction)
-2. [Iris Flower Classification](https://github.com/Gaurav8604/LGM-Data-Science/tree/main/BEGINNER%20LEVEL%20TASK/Iris%20Flower%20Classification%20ML%20Project)
+2. [Customer Churn Prediction](https://github.com/Gaurav8604/Bank-Customer-Churn-Modelling-YBI)
+3. [Other](https://github.com/Gaurav8604/Data-Science-Projects)
 
 ## Windows Application Development
 1. [Lithium - Battery Saver](https://github.com/Gaurav8604/Lithium---Battery-Saver)
