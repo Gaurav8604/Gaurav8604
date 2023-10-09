@@ -35,3 +35,8 @@
 ## Open Source Contributions
 1. [Exception Handling in C++ Docbook](https://github.com/Gaurav8604/DocBook/blob/master/C%2B%2B/Exception%20Handling/Exception%20Handling.md)
 2. [DFS and BFS in C++ Code](https://github.com/Gaurav8604/Algorithms/tree/main/C%2B%2B/Searching)
+3. [LeetCode Solutions](https://github.com/Gaurav8604/Java-Codespace/tree/main/src/test/java/LeetCode)
+4. [Online GDB Prototype](https://github.com/Gaurav8604/mini-projects/tree/main/Python/onlinegdb)
+
+## Competitive Coding Daily Questions
+1. [Competitive-Coding](https://github.com/Gaurav8604/Competitive-Coding)
