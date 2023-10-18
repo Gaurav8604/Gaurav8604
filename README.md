@@ -37,6 +37,9 @@
 2. [DFS and BFS in C++ Code](https://github.com/Gaurav8604/Algorithms/tree/main/C%2B%2B/Searching)
 3. [LeetCode Solutions](https://github.com/Gaurav8604/Java-Codespace/tree/main/src/test/java/LeetCode)
 4. [Online GDB Prototype](https://github.com/Gaurav8604/mini-projects/tree/main/Python/onlinegdb)
+5. [Javascript Rat in a Mazze Game](https://github.com/Gaurav8604/Web-Development-Projects/tree/main/Rat%20in%20a%20Maze)
+6. [LeetCode Problem Solutions (Two Sum,3Sum,4Sum)](https://github.com/Gaurav8604/Java-Codespace/tree/main/src/test/java/LeetCode)
+7. [Factorial using Dynamic Programming in C++](https://github.com/Gaurav8604/The-Algorithms-Cpp/blob/main/Dynamic%20Programming/factorial_using_dp.cpp)
 
 ## Competitive Coding Daily Questions
 1. [Competitive-Coding](https://github.com/Gaurav8604/Competitive-Coding)
