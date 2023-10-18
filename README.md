@@ -7,7 +7,7 @@
 
 **Abilities:** Passionate, Team building, Active learning, Problem solving.
 
-**Interests:** Competitive Coding, Machine Learning, Mobile App Development
+**Interests:** Competitive Coding, Machine Learning, Mobile App Development, Windows App Development
 
 **Skills:** C++, Python, Machine-Learning, Git, Github, LaTeX, Flutter, Firebase, C#.NET, Javascript, React
 
