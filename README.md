@@ -9,7 +9,7 @@
 
 **Interests:** Competitive Coding, Machine Learning, Mobile App Development, Windows App Development
 
-**Skills:** C++, Python, Machine-Learning, Git, Github, LaTeX, Flutter, Firebase, C#.NET, Javascript, React
+**Skills:** C++, Python, Machine-Learning, Git, Github, LaTeX, Firebase, C#.NET, Javascript, React
 
 
 
